@@ -1,0 +1,7 @@
+name = "lean-bench-server"
+version = "0.1.0"
+defaultTargets = ["server"]
+
+[[lean_exe]]
+name = "server"
+root = "Main"

@@ -1,0 +1,16 @@
+# Lean / Lake
+lean/.lake/
+lean/build/
+
+# Node
+node/node_modules/
+node/npm-debug.log*
+
+# Benchmark artifacts
+results/
+*.log
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
