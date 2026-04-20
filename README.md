@@ -8,7 +8,7 @@ workload.
 - [autocannon](https://github.com/mcollina/autocannon) (`npm install -g autocannon`)
 - jq, nc and lsof
 - Node.js ≥ 18 (for the Node server)
-- Lean 4 toolchain that provides `Std.Internal.Http` (The toolchain is lean4 so it assumes a local build of the compiler in a branch that has Std.Internal.Http)
+- Lean 4 toolchain that provides `Std.Internal.Http`
 
 ### Benchmark
 
